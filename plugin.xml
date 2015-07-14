@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="com.datical.integration.go.DaticalDB4Go" version="1.0">
+    <about>
+        <name>DaticalDB4Go</name>
+        <version>1.0</version>
+        <target-go-version>14.4.0</target-go-version>
+        <description>Datical DB makes it incredibly easy to automate and manage database schema changes for high volume, complex releases, across any environment, for any database. No agents required.</description>
+        <vendor>
+            <name>Datical</name>
+            <url>datical.com</url>
+        </vendor>
+        <target-os>
+            <value>Linux</value>
+            <value>Windows</value>
+        </target-os>
+    </about>
+</go-plugin>
